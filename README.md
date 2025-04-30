@@ -17,10 +17,7 @@ This dataset is a curated extract of transactional e-commerce data, reflecting A
 
 ## 🛠️ Tools and Methodology
 
-- **Microsoft Power BI**: Used for data modeling, DAX calculations, and dashboard creation.
-- **Microsoft Excel**: Initial data exploration and shaping.
-- **DAX**: Used for calculating KPIs like top-performing SKUs, shipping efficiency, and sales breakdowns by region, size, and provider.
-- **Data Cleaning**: Included resolving null values, mapping product codes to names, and grouping order statuses into analytical buckets.
+- **Microsoft Excel**: Initial data exploration and shaping and  dashboard creation.
 
 ---
 
